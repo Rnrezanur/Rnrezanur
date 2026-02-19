@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Rezanur Bin Shamim</h1>
+<h1 align="center">Hi, I'm Rezanur Bin Shamim</h1>
 <h3 align="center">Full Stack Web Developer | CSE Graduate | Creative Technologist </h3>
 
 <p align="center">
