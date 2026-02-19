@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rezanur Bin Shamim</h1>
+<h1 align="center">Hi , I'm Rezanur Bin Shamim</h1>
 <h3 align="center">Full Stack Web Developer | CSE Graduate | Creative Technologist </h3>
 
 <p align="center">
@@ -12,45 +12,45 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Graduate in **Computer Science & Engineering (CSE)**
-- 💻 Full Stack Web Developer (MERN Stack)
-- 🌐 Strong in HTML, CSS, Tailwind CSS, JavaScript & React
-- ⚙️ Backend Development with Node.js, Express & MongoDB
-- 🐍 Proficient in Python, C & Java
-- 🎬 Skilled in Video Editing
-- 🎮 Gamer & Gaming Content Creator
-- 📈 Passionate about Technology, Performance & Creative Design
+-  Graduate in **Computer Science & Engineering (CSE)**
+-  Full Stack Web Developer (MERN Stack)
+-  Strong in HTML, CSS, Tailwind CSS, JavaScript & React
+-  Backend Development with Node.js, Express & MongoDB
+-  Proficient in Python, C & Java
+-  Skilled in Video Editing
+-  Gamer & Gaming Content Creator
+-  Passionate about Technology, Performance & Creative Design
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🌐 Frontend
+###  Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🐍 Programming
+###  Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
 
-### 🛠️ Tools
+###  Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rnrezanur&theme=github_dark" />
@@ -65,7 +65,7 @@
 ---
 
 
-## 📬 Contact Me
+##  Contact Me
 
 <p align="center">
 
