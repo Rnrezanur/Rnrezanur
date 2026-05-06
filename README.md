@@ -44,19 +44,18 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-### Tools & Others
+### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ### Deployment & Hosting
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
-
 ---
 
 ##  GitHub Activity
